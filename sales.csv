@@ -1,0 +1,8 @@
+OrderID,CustomerID,Product,Category,Quantity,Price,OrderDate
+1,101,WidgetA,Electronics,2,50,2023-01-01
+2,102,WidgetB,Toys,1,20,2023-01-02
+3,103,WidgetC,Books,5,15,2023-01-02
+4,101,WidgetD,Electronics,3,100,2023-01-03
+5,104,WidgetE,Toys,4,25,2023-02-01
+6,105,WidgetF,Books,2,30,2023-02-05
+7,102,WidgetA,Electronics,1,50,2023-02-10
